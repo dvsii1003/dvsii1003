@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dvsii1003
+- 👋 Hi, I’m Don
 - 👀 I’m interested in switching careers to fullstack engineer (Possibility)
 - 🌱 I’m currently learning C++ and Javascript
 - 💞️ I’m looking to collaborate on anything beginner - intermediate level
